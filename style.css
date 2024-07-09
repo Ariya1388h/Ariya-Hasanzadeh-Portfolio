@@ -371,11 +371,6 @@ section {
 
     #menu-icon {
         display: inline-block;
-        transition: 0.3s ease;
-    }
-
-    #menu-icon:hover {
-        color: var(--main-color);
     }
 
     .navbar {
