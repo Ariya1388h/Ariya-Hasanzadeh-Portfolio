@@ -1,1 +1,1 @@
-The css file still has some bugs but the website is almost complete.
+Website is still under work, wiat for final results
